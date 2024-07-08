@@ -1,0 +1,4 @@
+tkinter
+pyttsx3
+gTTS
+pydub
